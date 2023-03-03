@@ -1,6 +1,3 @@
-//Controller just recieves Request and sends Response
-//Controller contains the CRUD functions
-
 import { Request, Response } from "express";
 import { insert_User, get_Users, get_User, update_User, delete_User } from "../services/user.service";
 import { handleHttp } from "../utils/error.handle";

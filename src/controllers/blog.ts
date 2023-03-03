@@ -1,5 +1,5 @@
 //BLOG IS A GENERIC CONTROLLER
-//Useful to refactor and reuse it
+
 //Controller just recieves Request and sends Response
 //Controller contains the CRUD functions
 
